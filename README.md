@@ -1,6 +1,6 @@
 # VegasProFlow
 
-![Preview Picture](/preview/vegas-pro-flow.png)
+![Preview Picture](preview.png)
 
 Create smooth animations without ever leaving the editor
 
