@@ -25,7 +25,7 @@ You will be notified in the **About** tab when a **new release** comes out
 
 ## How to use
 
-1. Download "...13" for `13 and below`, or "...14" for `14 and above` Vegas Pro versions.
+1. Download "...13" for `13 and below`, or "...14" for `14 and above` Vegas Pro versions
 2. Find or create a folder called Vegas Script Menu inside your Documents folder like this:
    - `C:\Users\USER_NAME\Documents\Vegas Application Extensions`
 3. Extract the contents of the .zip file into the folder above
