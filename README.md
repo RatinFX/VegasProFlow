@@ -33,8 +33,8 @@ Check out the [YouTube playlist](https://www.youtube.com/playlist?list=PL9FpRwzr
 Make sure you have .NET 4.8 (or higher) installed.
 
 1. Download "...13" for `13 and below`, or "...14" for `14 and above` Vegas Pro versions
-2. Find or create a folder called Vegas Script Menu inside your Documents folder like this:
-   - `C:\Users\USER_NAME\Documents\Vegas Application Extensions`
-   - on Windows 11 try the following: `C:\Users\USER_NAME\OneDrive\Documents\Vegas Application Extensions` 
+2. Find or create a folder called Vegas Script Menu inside your **This PC - My Documents** folder like this:
+   - `[user_name]\Documents\Vegas Application Extensions`
+   - on Windows 11 try the following: `[user_name]\OneDrive\Documents\Vegas Application Extensions` 
 3. Extract the contents of the .zip file into the folder above
 4. Start VEGAS Pro and you can find the Script at `View - Extensions`
