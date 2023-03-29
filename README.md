@@ -30,7 +30,7 @@ Check out the [YouTube playlist](https://www.youtube.com/playlist?list=PL9FpRwzr
 
 ## How to use
 
-Make sure you have .NET 4.8 installed.
+Make sure you have .NET 4.8 (or higher) installed.
 
 1. Download "...13" for `13 and below`, or "...14" for `14 and above` Vegas Pro versions
 2. Find or create a folder called Vegas Script Menu inside your Documents folder like this:
