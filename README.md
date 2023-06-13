@@ -53,15 +53,15 @@ If it does not show up inside VEGAS Pro, try **Manual install** using multiple p
 1. Delete your current version from the previous install folder
 2. Download "...13" for **13 and earlier**, or "...14" for **14 and later** Vegas Pro versions
 3. **Find or create** the relevant folder in **any of the following paths** (change the version number to your Vegas version):
-- %userprofile%\Documents\Vegas Application Extensions\
+   - %userprofile%\Documents\Vegas Application Extensions\
 
    If the extension does not show up in VEGAS Pro, try **any of the following paths**:
 
-- C:\Users\[username]\AppData\Local\VEGAS Pro\17.0\Application Extensions\
-- C:\Users\[username]\AppData\Roaming\VEGAS Pro\17.0\Application Extensions\
-- C:\ProgramData\Vegas Pro\17.0\Application Extensions\
-- C:\Users\[username]\AppData\Local\Vegas Pro\Application Extensions\
-- C:\Users\[username]\AppData\Roaming\Vegas Pro\Application Extensions\
-- C:\ProgramData\Vegas Pro\Application Extensions\
+   - C:\Users\[username]\AppData\Local\VEGAS Pro\17.0\Application Extensions\
+   - C:\Users\[username]\AppData\Roaming\VEGAS Pro\17.0\Application Extensions\
+   - C:\ProgramData\Vegas Pro\17.0\Application Extensions\
+   - C:\Users\[username]\AppData\Local\Vegas Pro\Application Extensions\
+   - C:\Users\[username]\AppData\Roaming\Vegas Pro\Application Extensions\
+   - C:\ProgramData\Vegas Pro\Application Extensions\
 4. Extract the contents of the .zip file into the folder
 5. Start VEGAS Pro and search for the **Extension** under **Tools - Extensions** or **View - Extensions**
