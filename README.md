@@ -41,18 +41,27 @@ To [Angelolz](https://www.youtube.com/@angelolz1) for being an early supporter a
 Make sure you have at least [.NET 4.8 (or higher)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer) installed on your computer.
 
 ### Quick install
-
 1. Download "...13" for **13 and earlier**, or "...14" for **14 and later** Vegas Pro versions
-2. **Run the .exe** file, this automatically extracts the files to the selected folder
-3. Click Next with the default options and wait for it to finish
-4. Start VEGAS Pro and search for the **Extension** under **Tools - Extensions**
+2. Save and close VEGAS Pro
+3. **Run the .exe** file, this automatically extracts the files to the selected folder
+4. Click Next with the default options and wait for it to finish
+5. Start VEGAS Pro and search for the Extension under **Tools - Extensions** or **View - Extensions**
+
+If it does not show up inside VEGAS Pro, try **Manual install** using multiple path choices after removing the extension from the default folder.
 
 ### Manual install
+1. Delete your current version from the previous install folder
+2. Download "...13" for **13 and earlier**, or "...14" for **14 and later** Vegas Pro versions
+3. **Find or create** the relevant folder in **any of the following paths** (change the version number to your Vegas version):
+- %userprofile%\Documents\Vegas Application Extensions\
 
-1. Download "...13" for **13 and earlier**, or "...14" for **14 and later** Vegas Pro versions
-2. Go to your **AppData - Roaming - Vegas Pro** folder by typing the following into your Windows Explorer:
-   > %appdata%\Vegas Pro
-3. **Find or create** an **Application Extensions** folder, the path to it should looks like this:
-   > ...\AppData\Roaming\Vegas Pro\Application Extensions
-4. Extract the contents of the .zip file into the folder above
-5. Start VEGAS Pro and search for the **Extension** under **Tools - Extensions**
+   If the extension does not show up in VEGAS Pro, try **any of the following paths**:
+
+- C:\Users\[username]\AppData\Local\VEGAS Pro\17.0\Application Extensions\
+- C:\Users\[username]\AppData\Roaming\VEGAS Pro\17.0\Application Extensions\
+- C:\ProgramData\Vegas Pro\17.0\Application Extensions\
+- C:\Users\[username]\AppData\Local\Vegas Pro\Application Extensions\
+- C:\Users\[username]\AppData\Roaming\Vegas Pro\Application Extensions\
+- C:\ProgramData\Vegas Pro\Application Extensions\
+4. Extract the contents of the .zip file into the folder
+5. Start VEGAS Pro and search for the **Extension** under **Tools - Extensions** or **View - Extensions**
