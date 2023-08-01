@@ -45,23 +45,23 @@ Make sure you have at least [.NET 4.8 (or higher)](https://dotnet.microsoft.com/
 2. Save and close VEGAS Pro
 3. **Run the .exe** file, this automatically extracts the files to the selected folder
 4. Click Next with the default options and wait for it to finish
-5. Start VEGAS Pro and search for the Extension under **Tools - Extensions** or **View - Extensions**
+5. Start VEGAS Pro and search for the Extension under **Tools - Extensions**
 
 If it does not show up inside VEGAS Pro, try **Manual install** using multiple path choices after removing the extension from the default folder.
 
 ### Manual install
 1. Delete your current version from the previous install folder
 2. Download "...13" for **13 and earlier**, or "...14" for **14 and later** Vegas Pro versions
-3. **Find or create** the relevant folder in **any of the following paths** (change the version number to your Vegas version):
+3. **Find or create** the relevant folder in **any** of the following paths:
    - %userprofile%\Documents\Vegas Application Extensions\
 
-   If the extension does not show up in VEGAS Pro, try **any of the following paths**:
+   If the extension does not show up in VEGAS Pro, try **any of the following paths** (change the version number to your Vegas version):
 
-   - C:\Users\[username]\AppData\Local\VEGAS Pro\17.0\Application Extensions\
-   - C:\Users\[username]\AppData\Roaming\VEGAS Pro\17.0\Application Extensions\
-   - C:\ProgramData\Vegas Pro\17.0\Application Extensions\
-   - C:\Users\[username]\AppData\Local\Vegas Pro\Application Extensions\
-   - C:\Users\[username]\AppData\Roaming\Vegas Pro\Application Extensions\
-   - C:\ProgramData\Vegas Pro\Application Extensions\
+   - %localappdata%\VEGAS Pro\17.0\Application Extensions\
+   - %appdata%\VEGAS Pro\17.0\Application Extensions\
+   - %programdata%\Vegas Pro\17.0\Application Extensions\
+   - %localappdata%\Vegas Pro\Application Extensions\
+   - %appdata%\Vegas Pro\Application Extensions\
+   - %programdata%\Vegas Pro\Application Extensions\
 4. Extract the contents of the .zip file into the folder
-5. Start VEGAS Pro and search for the **Extension** under **Tools - Extensions** or **View - Extensions**
+5. Start VEGAS Pro and search for the **Extension** under **Tools - Extensions**
