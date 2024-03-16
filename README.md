@@ -27,8 +27,8 @@
 
 ## Special thanks
 
-To [Angelolz](https://www.youtube.com/@angelolz1) for being an early supporter and tester of the project while providing crucial feedback.
-- [Angelolz](https://www.youtube.com/@angelolz1) created: [love is an open door (とびら開けて) ╱ ver.KORO x @NightKorio](https://www.youtube.com/watch?v=Ro-KaV3iCs0)
+To [**Angelolz**](https://www.youtube.com/@angelolz1) for being an early supporter and tester of the project while providing crucial feedback.
+- The first video to use VPFlow: [love is an open door (とびら開けて) ╱ ver.KORO x @NightKorio](https://www.youtube.com/watch?v=Ro-KaV3iCs0)
 
 To **MANUGP (lologp)** for the VPFlow icon from my Discord server.
 
