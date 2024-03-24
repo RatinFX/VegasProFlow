@@ -25,6 +25,10 @@
 
 [Read more about it on my website](https://ratinfx.github.io/vegas-pro-flow)
 
+## Contributing
+
+If you want to translate it to your language, please use [English-translation.json](https://github.com/RatinFX/VegasProFlow/blob/master/English-translation.json) as a starting point.
+
 ## Special thanks
 
 To [**Angelolz**](https://www.youtube.com/@angelolz1) for being an early supporter and tester of the project while providing crucial feedback.
