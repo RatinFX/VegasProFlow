@@ -30,8 +30,8 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Software version (please share the following information):**
- - VEGAS Pro version: [e.g. VP14, VP19..]
- - Windows version [e.g. Windows 10, Windows 11..]
+ - Windows version [e.g. 10, 11..]
+ - VEGAS Pro version: [e.g. 14, 19..]
  - VPFlow version [e.g. 1.6.0, 1.7.0..]
 
 **Additional context**
