@@ -3,8 +3,8 @@
     <a href="https://ratinfx.com/vegas-pro-flow" target="blank"><img src="https://img.shields.io/badge/Website-60a5fa?style=flat-square" alt="Website"/></a>
     <a href="https://twitch.com/RatinFX" target="blank"><img src="https://img.shields.io/badge/Twitch-RatinFX-9146ff?style=flat-square&logo=twitch" alt="Twitch"/></a>
     <a href="https://twitter.com/RatinFX" target="blank"><img src="https://img.shields.io/badge/Twitter-RatinFX-blue?style=flat-square&logo=twitter" alt="Twitter"/></a>
-    <a href="https://youtube.com/@MartinFX" target="blank"><img src="https://img.shields.io/badge/Main_YT-MartinFX-red?style=flat-square&logo=youtube&logoColor=red" alt="Main YouTube"/></a>
-    <a href="https://youtube.com/@RatinFX" target="blank"><img src="https://img.shields.io/badge/2nd_YT-RatinFX-red?style=flat-square&logo=youtube&logoColor=red" alt="2nd YouTube"/></a>
+    <a href="https://youtube.com/@RatinFX" target="blank"><img src="https://img.shields.io/badge/Main_YT-RatinFX-red?style=flat-square&logo=youtube&logoColor=red" alt="Main YouTube"/></a>
+    <a href="https://youtube.com/@RatinFX2" target="blank"><img src="https://img.shields.io/badge/2nd_YT-RatinFX2-red?style=flat-square&logo=youtube&logoColor=red" alt="2nd YouTube"/></a>
   </p>
 
   <p>
