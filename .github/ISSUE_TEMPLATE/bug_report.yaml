@@ -1,0 +1,46 @@
+name: Bug report
+description: Report a bug.
+title: "Bug: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Finding a solution before reporting something**
+        Before creating a new issue, I recommend:
+        - updating to the latest version,
+        - searching for related issues and solutions here,
+        - and checking relevant channels on the Discord server.
+  - type: textarea
+    attributes:
+      label: Describe your problem
+      description: A clear and concise description of what the issue is.
+      placeholder: ex. VEGAS crashed after I clicked X and Y
+  - type: textarea
+    attributes:
+      label: Steps to reproduce the issue
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+  - type: textarea
+    attributes:
+      label: Screenshots or video
+      description: Add screenshots or videos that show the bug.
+      placeholder: Drag and drop the screenshots/videos into this box.
+  - type: input
+    attributes:
+      label: VPFlow version
+      description: The version you encountered this bug on.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: VEGAS Pro version
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Windows version
+    validations:
+      required: true
