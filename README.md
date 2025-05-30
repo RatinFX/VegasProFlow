@@ -19,11 +19,37 @@
 
 # VegasProFlow
 
-![Preview Picture](preview20230513.png)
+[Read more about it on my website](https://ratinfx.github.io/vegas-pro-flow)
+
+[Click here to join my Discord server if you found any anomalies or if you have any questions!](https://discord.com/invite/mNsBRTD8DZ)
+
+![vpflow-preview](preview20230513.png)
 
 ## Overview
 
-[Read more about it on my website](https://ratinfx.github.io/vegas-pro-flow)
+- Select an **Event** or a **Track** to animate on
+
+- It will **automatically** try to select the **most relevant Effect** and **Parameter**
+
+- Apply **pre-made** curves from **LIBRARY** or **make your own** in the **CUSTOM** tab
+
+- **Double Click** on a **Preset** to quickly **Apply it**
+
+- **Click on the coordinates** to set them manually
+
+- Lock the **X** or **Y** axis by holding **Shift** or **Control**
+
+- The **About** tab will change color when a **new update** is out
+
+## Settings
+
+- **Ignore long section warning** - do not show a warning for longer animated sections
+
+- **Snap Keyframes to whole Frames** - create keyframes on the nearest frame instead of evenly spacing them
+
+- **Auto Check for Updates**
+
+- **Show Support view on Start**
 
 ## Special thanks
 
@@ -33,3 +59,5 @@ To [**Angelolz**](https://www.youtube.com/@angelolz1) for being an early support
 To **MANUGP (lologp)** for the VPFlow icon from my Discord server.
 
 To **夜__晓** and **zzzzzz9125** for continuously sharing and updating the Chinese translations on my Discord server.
+
+To **everyone**, who helped test new features via the open-betas and provided any feedback.
