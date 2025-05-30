@@ -25,10 +25,6 @@
 
 [Read more about it on my website](https://ratinfx.github.io/vegas-pro-flow)
 
-## Contributing
-
-If you want to translate it to your language, please use [English-translation.json](https://github.com/RatinFX/VegasProFlow/blob/master/English-translation.json) as a starting point.
-
 ## Special thanks
 
 To [**Angelolz**](https://www.youtube.com/@angelolz1) for being an early supporter and tester of the project while providing crucial feedback.
@@ -36,4 +32,4 @@ To [**Angelolz**](https://www.youtube.com/@angelolz1) for being an early support
 
 To **MANUGP (lologp)** for the VPFlow icon from my Discord server.
 
-To **夜__晓** and **zzzzzz9125** for sharing the Chinese translations on Discord.
+To **夜__晓** and **zzzzzz9125** for continuously sharing and updating the Chinese translations on my Discord server.
